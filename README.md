@@ -21,7 +21,7 @@ Make sure you have the following installed on your machine:
    git clone https://github.com/your-username/CodeAnt_AI.git
    cd CodeAnt_AI
 
-1. Running the project:
+2. Running the project:
 
     ```bash
     npm run dev
@@ -29,4 +29,7 @@ Make sure you have the following installed on your machine:
     yarn dev
 This will start the development server. Open your browser and navigate to http://localhost:3000 to see the application.
 
-    
+# Deployment
+The project is also deployed on Vercel. You can access it using the following link:
+
+https://code-o45c7qpdj-syedasif9072gmailcoms-projects.vercel.app
